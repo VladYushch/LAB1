@@ -1,2 +1,1 @@
-# LAB1
-IPZ
+#IPZ_lab1
